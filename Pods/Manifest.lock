@@ -1,0 +1,16 @@
+PODS:
+  - SampleSDKkawamura4 (1.0.2)
+
+DEPENDENCIES:
+  - SampleSDKkawamura4 (>= 1.0.2)
+
+SPEC REPOS:
+  trunk:
+    - SampleSDKkawamura4
+
+SPEC CHECKSUMS:
+  SampleSDKkawamura4: 15310c2f178068762a425b7ad0c8c280fabbea56
+
+PODFILE CHECKSUM: 4e022bb9eb3d29bf0346ffdff80b083c7b9b9527
+
+COCOAPODS: 1.15.2
