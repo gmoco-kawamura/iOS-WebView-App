@@ -5,6 +5,6 @@ target 'PopupSample2' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   # Pods for PopupSample2
-  pod "SampleSDKkawamura4", ">=1.0.2" 
+  pod "SampleSDKkawamura4", ">=1.0.3" 
 
 end
