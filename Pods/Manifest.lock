@@ -1,16 +1,16 @@
 PODS:
-  - SampleSDKkawamura4 (1.0.3)
+  - iOS-WebView-SDK (0.0.3)
 
 DEPENDENCIES:
-  - SampleSDKkawamura4 (>= 1.0.3)
+  - iOS-WebView-SDK (>= 0.0.3)
 
 SPEC REPOS:
   trunk:
-    - SampleSDKkawamura4
+    - iOS-WebView-SDK
 
 SPEC CHECKSUMS:
-  SampleSDKkawamura4: d32c1b0cae208aa62ff39f48d1f2b553ae14e2f7
+  iOS-WebView-SDK: df626a3e680deb3716b44752257d121de6f84417
 
-PODFILE CHECKSUM: 60c67775b15dfe9374f3f5ab88c47efbc2cadcb7
+PODFILE CHECKSUM: 46e55f90af6a5d7e3cd4941d38e72575644acb51
 
 COCOAPODS: 1.15.2

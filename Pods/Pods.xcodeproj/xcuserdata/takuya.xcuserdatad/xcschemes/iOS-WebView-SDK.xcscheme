@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2F07DE6EB28316DFC524A1FD07A52F99"
-               BuildableName = "SampleSDKkawamura4"
-               BlueprintName = "SampleSDKkawamura4"
+               BlueprintIdentifier = "6DB2C8C4042B61BE9B35D75DF44907EF"
+               BuildableName = "iOS-WebView-SDK"
+               BlueprintName = "iOS-WebView-SDK"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

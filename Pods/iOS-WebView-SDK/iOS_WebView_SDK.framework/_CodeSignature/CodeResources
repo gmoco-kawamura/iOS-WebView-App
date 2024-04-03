@@ -4,37 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/SampleSDKkawamura4-Swift.h</key>
+		<key>Assets.car</key>
 		<data>
-		4uKogZp4ZFtn7ePvSTd83L2XFyA=
+		/BndxS6Hs/DgkribY/2vnCiAWKE=
 		</data>
-		<key>Headers/SampleSDKkawamura4.h</key>
+		<key>Headers/iOS_WebView_SDK-Swift.h</key>
 		<data>
-		fLg3wOsHJh9LPP+cwYT6p7pBGzQ=
+		p5JiBpzX9xbgA2pbNgFOvUgfxmo=
+		</data>
+		<key>Headers/iOS_WebView_SDK.h</key>
+		<data>
+		dZ6yqyt7CgoASQ1qKHAN9ab5yUY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7dhSeM4KHRFmq8aFRyHEfUrWFSw=
+		g/prOiYbzY+/9MuYPjK0d28Y11A=
 		</data>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		LQ3/+QM4yS/1apqeZKpUtPVgjd8=
+		EI5L7YgnnLLLn9b4JJftchAJ+xE=
 		</data>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Pc2qbQOysRne+FTv8dKp7i8bHFU=
+		CIXmlt97hrRiZI0ZxsDx03Dxt1A=
 		</data>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GOeclAfeyKm4BHSEGhtQ8umfxYw=
+		b9CjgJgZ2sbwRbAJhF1A9skt2NE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		zcn33tUhDU4d+jxlIGmq7yuWEbI=
+		noORt4tf/Oc5ImGjIWRp1H3zP+8=
 		</data>
 		<key>PTPopupWebView.nib</key>
 		<data>
@@ -43,30 +47,6 @@
 		<key>PTPopupWebViewControllerBlur.nib</key>
 		<data>
 		y78F36xGbEtKt2OxNd5aCP1yNLc=
-		</data>
-		<key>back.png</key>
-		<data>
-		jQgTbo9JGJxng1xIaaeUfymO6Fs=
-		</data>
-		<key>back@2x.png</key>
-		<data>
-		VmcCkgrcULWFY9U6alGDnRVvsUk=
-		</data>
-		<key>back@3x.png</key>
-		<data>
-		Ql2qxSqkiKgpPCd8YS8Z8KKGFEQ=
-		</data>
-		<key>close.png</key>
-		<data>
-		muro145Dagkn/rBjCZ+j/sUIN9g=
-		</data>
-		<key>close@2x.png</key>
-		<data>
-		0WxeTEAUADHP28A/w5BJcdGPy+A=
-		</data>
-		<key>close@3x.png</key>
-		<data>
-		8fbvc2695RqQrvZk+vwvv8UrPAs=
 		</data>
 		<key>colored_button.png</key>
 		<data>
@@ -84,18 +64,6 @@
 		<data>
 		oSg5p/ftpGiAGblh04/zEfmxork=
 		</data>
-		<key>forward.png</key>
-		<data>
-		Uhf0dh6bBfpSL26XfTWFPV9UjN0=
-		</data>
-		<key>forward@2x.png</key>
-		<data>
-		FUUQnZ5uldDzwGCyqHWM5UU0iUw=
-		</data>
-		<key>forward@3x.png</key>
-		<data>
-		9bn50IIWufQyhdkasu9jbjd5OAE=
-		</data>
 		<key>fullscreen.png</key>
 		<data>
 		NSmY2rxg99IRqB5SUsuOGvL+SwU=
@@ -107,18 +75,6 @@
 		<key>hide_title.png</key>
 		<data>
 		04L3+P/+MnnG49Me/T7sKERl/CI=
-		</data>
-		<key>reload.png</key>
-		<data>
-		A2jFG0TUUulMw8AbR3wkvFbdndk=
-		</data>
-		<key>reload@2x.png</key>
-		<data>
-		oDkCN7LT3aQ7B1dGsFUu5xv/IJY=
-		</data>
-		<key>reload@3x.png</key>
-		<data>
-		4igHqHoI18QHr7oLdfXW4ci5zI0=
 		</data>
 		<key>style_fade.gif</key>
 		<data>
@@ -147,53 +103,60 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/SampleSDKkawamura4-Swift.h</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kNtqIiYQc/gF4/jVQ4DD3J55WpUpGDicGfIrdp6xRvg=
+			qEAIKR9kXXG8afSLXjh+K9KecAF2rIv9Q4UFXuLzCNU=
 			</data>
 		</dict>
-		<key>Headers/SampleSDKkawamura4.h</key>
+		<key>Headers/iOS_WebView_SDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjBgt9pRG5UBtSDVPFf9FB830KQJoOQO+q20myFcsgc=
+			4PVZlxHT/wJp4RhMlheqh5n//unT1ufzON2GHeL8o6E=
 			</data>
 		</dict>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Headers/iOS_WebView_SDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x86xgR7hKYUWp8Uhs0bX4ARxoSkpYcG9KAHpJ1E14Ag=
+			8NreVHygHXQ+ewK6S1sEikHF1WICIYCau4ayg34ESbo=
 			</data>
 		</dict>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uU4MJLGlz70BU0+HtjyOFr++6THEpCGH1ocke9gndgE=
+			</data>
+		</dict>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ox2vg+zU9SndY7e6ffcgGpHcMm3SXTy/gAXL81N+lPE=
+			zarBeePtcr1NdK7gelYlfAL7JL4c8INR39+9pr5mlWg=
 			</data>
 		</dict>
-		<key>Modules/SampleSDKkawamura4.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/iOS_WebView_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uJfMxhen5/SX4qYrCMpRtyTVe1KoyQZzTGzRG6/odcE=
+			xYj3QW29v0Hnxp0HAka1xhG+xfsSAti6PDoeBfc98NY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			udHGjyOeMb912LqXhBOzi9DsaBJvPP94rY+sUtYUjRo=
+			sJWc995nphlrdQkOD64KSvChe0r9LadXEyQk4/7ljY0=
 			</data>
 		</dict>
 		<key>PTPopupWebView.nib</key>
@@ -208,48 +171,6 @@
 			<key>hash2</key>
 			<data>
 			hLWQIwl8dsN0DerOugSkXuaQ98l4DZ8TRUnqRk9uSmo=
-			</data>
-		</dict>
-		<key>back.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xFW2M6ZGC5ULW0geq6SU51/7e4SnZN+y6CFHuU4juIw=
-			</data>
-		</dict>
-		<key>back@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4oRKo8tRwSVqV7tU+TbOOGBnGR/M1scDcmzvJl82G98=
-			</data>
-		</dict>
-		<key>back@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Lw1aSWYjqTqGFabT3UXSxPsMyCf9lOPD6TD9y1TRacQ=
-			</data>
-		</dict>
-		<key>close.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T1JOysZFYq2b9o04MltWhIvISSDgQKAHHlyZjwXwaqQ=
-			</data>
-		</dict>
-		<key>close@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Xl3FHMQx7kEvoPA7gLjE3DnSlF5lPQwpNNPAbGslwfU=
-			</data>
-		</dict>
-		<key>close@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vW9iU/bB1E1WJ5VgjcvfP2XWgkVxnI9tIMV+VqFBwFc=
 			</data>
 		</dict>
 		<key>colored_button.png</key>
@@ -280,27 +201,6 @@
 			F0aJVl5Gzn7JuZR6g2xizOjKKm50cunSxKLQdtZx+6M=
 			</data>
 		</dict>
-		<key>forward.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9jmXJWVCZL4HmfuMKhYhZ1A8CS1r9dS1QH625BGNKFg=
-			</data>
-		</dict>
-		<key>forward@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qSxEqzUI1RjT+yQf5CanP7/SyvibHb0fe/v48XetmKY=
-			</data>
-		</dict>
-		<key>forward@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vw3RKBXkSdMa0saK3/qSMO/I9X1sXMmeX13Dpn7TjbI=
-			</data>
-		</dict>
 		<key>fullscreen.png</key>
 		<dict>
 			<key>hash2</key>
@@ -320,27 +220,6 @@
 			<key>hash2</key>
 			<data>
 			bV0zhG7rCC84AjNC/+/pt/8n7gKl/PoMbV3FABUuahg=
-			</data>
-		</dict>
-		<key>reload.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LT1DQCTCnJhsU2UBT4jbJGQc26LVBhaxB1R+DBOKNxo=
-			</data>
-		</dict>
-		<key>reload@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U06FyqB6WIN4DCb7SMK9edcGSFBn3w8zRBgvHxbCzFs=
-			</data>
-		</dict>
-		<key>reload@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xYGOM1k2cWzQcn/h0laBBp393Z7lzrsqfZBMBN0Ofck=
 			</data>
 		</dict>
 		<key>style_fade.gif</key>

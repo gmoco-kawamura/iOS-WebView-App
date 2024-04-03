@@ -7,12 +7,15 @@
 
 import SwiftUI
 import UIKit
-import SampleSDKkawamura4
+//import SampleSDKkawamura4
+import iOS_WebView_SDK
 
-// SwiftUIビュー
+// SwiftUI View
 struct ContentView: View {
-    // ポップアップ表示の状態管理
+    // State management for popup display
     @State private var showingPopup = false
+    // Instantiate AsyncOperationManager
+//    private var operationManager = AsyncOperationManager()
 
     var body: some View {
         VStack {
@@ -21,6 +24,11 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Button("Show Popup") {
+                // Use AsyncOperationManager to perform an asynchronous operation
+//                operationManager.performOperation(withSuccess: true){ success in
+//                    //
+//                    self.showingPopup = success
+//                }
                 self.showingPopup = true
             }
             .sheet(isPresented: $showingPopup) {
@@ -42,7 +50,6 @@ struct PopupWebView: View {
 
 // PTPopupWebViewをSwiftUIで使用するためのラッパー
 struct PTPopupWebViewRepresentable: UIViewControllerRepresentable {
-//    var onClose: (() -> Void)?
 
     func makeUIViewController(context: Context) -> UIViewController {
         let popupWebView = PTPopupWebViewController()
