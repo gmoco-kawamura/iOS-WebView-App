@@ -1,16 +1,28 @@
 PODS:
-  - iOS-WebView-SDK (0.0.3)
+  - CueLightShow (0.0.10)
+  - iOS-WebView-SDK (0.0.5)
+  - iOS-WebView-SDK3 (0.0.13)
+  - RoktWebViewSDK (2.0.0)
 
 DEPENDENCIES:
-  - iOS-WebView-SDK (>= 0.0.3)
+  - CueLightShow (~> 0.0.10)
+  - iOS-WebView-SDK (>= 0.0.5)
+  - iOS-WebView-SDK3 (>= 0.0.12)
+  - RoktWebViewSDK (>= 2.0.0)
 
 SPEC REPOS:
   trunk:
+    - CueLightShow
     - iOS-WebView-SDK
+    - iOS-WebView-SDK3
+    - RoktWebViewSDK
 
 SPEC CHECKSUMS:
-  iOS-WebView-SDK: df626a3e680deb3716b44752257d121de6f84417
+  CueLightShow: bf0b8340bac3892a676c0a38e308f1b630997f2c
+  iOS-WebView-SDK: 525d4544f6efce43e699dfac6fa43178406fa26d
+  iOS-WebView-SDK3: acecc1c38978f69b11b1a47b8e3d386a2a6033a5
+  RoktWebViewSDK: 689e934376e4a788d63c1a39b446e3ddf3278516
 
-PODFILE CHECKSUM: 46e55f90af6a5d7e3cd4941d38e72575644acb51
+PODFILE CHECKSUM: 3a74f4bd48b59c5947c567880dc5e509a6096deb
 
 COCOAPODS: 1.15.2

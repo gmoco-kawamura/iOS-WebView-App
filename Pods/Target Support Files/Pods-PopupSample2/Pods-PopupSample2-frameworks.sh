@@ -176,10 +176,16 @@ code_sign_if_enabled() {
 }
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "${BUILT_PRODUCTS_DIR}/CueLightShow/CueLightShow.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/RoktWebViewSDK/RoktWebViewSDK.framework"
   install_framework "${PODS_ROOT}/iOS-WebView-SDK/iOS_WebView_SDK.framework"
+  install_framework "${PODS_ROOT}/iOS-WebView-SDK3/iOS_WebView_SDK3.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "${BUILT_PRODUCTS_DIR}/CueLightShow/CueLightShow.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/RoktWebViewSDK/RoktWebViewSDK.framework"
   install_framework "${PODS_ROOT}/iOS-WebView-SDK/iOS_WebView_SDK.framework"
+  install_framework "${PODS_ROOT}/iOS-WebView-SDK3/iOS_WebView_SDK3.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

@@ -1,2 +1,5 @@
 ${PODS_ROOT}/Target Support Files/Pods-PopupSample2/Pods-PopupSample2-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CueLightShow/CueLightShow.framework
+${BUILT_PRODUCTS_DIR}/RoktWebViewSDK/RoktWebViewSDK.framework
 ${PODS_ROOT}/iOS-WebView-SDK/iOS_WebView_SDK.framework
+${PODS_ROOT}/iOS-WebView-SDK3/iOS_WebView_SDK3.framework

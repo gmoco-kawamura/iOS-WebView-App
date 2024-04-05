@@ -1,0 +1,11 @@
+framework module iOS_WebView_SDK3 {
+  umbrella header "iOS_WebView_SDK3.h"
+  export *
+
+  module * { export * }
+}
+
+module iOS_WebView_SDK3.Swift {
+  header "iOS_WebView_SDK3-Swift.h"
+  requires objc
+}

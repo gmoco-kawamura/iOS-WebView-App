@@ -6,6 +6,8 @@ target 'PopupSample2' do
   use_frameworks!
   # Pods for PopupSample2
 #  pod "SampleSDKkawamura4", ">=1.0.5" 
-  pod "iOS-WebView-SDK", ">=0.0.3"
-
+  pod "iOS-WebView-SDK", ">=0.0.5"
+  pod "CueLightShow", "~> 0.0.10"
+  pod "RoktWebViewSDK", ">=2.0.0"
+  pod "iOS-WebView-SDK3", ">=0.0.12"
 end

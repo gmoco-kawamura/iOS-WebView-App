@@ -1,0 +1,6 @@
+framework module CueLightShow {
+  umbrella header "CueLightShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
